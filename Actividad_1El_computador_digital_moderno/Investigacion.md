@@ -1,6 +1,8 @@
 ## 1.¿Qué es un computador?
 Un computador es una máquina capaz de procesar información de manera automática. Está diseñado para realizar operaciones lógicas, almacenar datos y ejecutar programas o instrucciones para llevar a cabo tareas específicas. Un computador consta de componentes de hardware y software, trabajando de manera conjunta.
 
+![alt text](Imagenes/SS1.jpg)
+
 Tomado y adaptado de:
 ["Computación, Arquitectura de Computadores", de William Stallings. Pearson Educación](http://biblioteca.univalle.edu.ni/files/original/c1b1f5d1c12abc60a246e2a0d784f7c9d163ee81.pdf)
 
@@ -21,11 +23,15 @@ __Ejemplos de equipos modernos:__
 
 Procesadores ARM (utilizados en dispositivos móviles y sistemas embebidos)
 
+![alt text](Imagenes/SS2.png)
+
 Tomado y adaptado de:
 ["Computación, Arquitectura de Computadores", de William Stallings. Pearson Educación](http://biblioteca.univalle.edu.ni/files/original/c1b1f5d1c12abc60a246e2a0d784f7c9d163ee81.pdf)
 
 ## 3. ¿Qué es el hardware?
-El hardware es la parte física de un computador, que incluye todos los componentes y dispositivos que realizan el procesamiento de datos y permiten la interacción con el usuario.
+El hardware es la parte física de un computador, que incluye todos los componentes y dispositivos que realizan el procesamiento de datos y permiten la interacción con el 
+usuario.
+
 
 ### 3.1 CPU (Unidad Central de Procesamiento)
 La CPU es el cerebro del computador, encargada de ejecutar las instrucciones de los programas. Está formada por varias partes esenciales:
@@ -55,6 +61,9 @@ Algunas de sus partes son:
 
 - __Sistema de refrigeración__: Ventiladores y disipadores para evitar el sobrecalentamiento de la GPU durante su uso.
 
+Tomado y adaptado de: [Apen30 soluciones informaticas](https://apen.es/glosario-de-informatica/hardware/)
+    
+
 
 ## 4. ¿Qué es el software?
 El software es el conjunto de instrucciones y programas que le indican al hardware qué hacer. Se clasifica en diferentes tipos:
@@ -67,6 +76,10 @@ Son programas diseñados para realizar tareas específicas, como procesadores de
 
 ### 4.3 Software de Desarrollo
 Son herramientas que permiten a los desarrolladores escribir, probar y mantener otros programas. Ejemplo: compiladores, editores de código, entornos de desarrollo integrados (IDE).
+
+![alt text](Imagenes/SS3.png)
+
+Tomado y adaptado de: [CISET](https://www.ciset.es/glosario/480-software-concepto-y-tipos)
 
 ## 5. Funcionamiento del computador
 
@@ -99,5 +112,7 @@ Las unidades más comunes de medida de datos son:
 |Gigabyte|1024 GB|
 |Terabyte|1024 TB|
 
-## Mapa conceptual 
+Tomado y adaptado de: [IBM](https://www.ibm.com/docs/es/aix/7.2?topic=startup-boot-process&utm_source=chatgpt.com)
+
+## Mapa conceptual  
 ![alt text](Imagenes/Mapa_conceptual.png)
