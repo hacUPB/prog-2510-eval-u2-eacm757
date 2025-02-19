@@ -29,26 +29,15 @@ El trabajo de George Boole fue fundamental en la informática, ya que desarroll�
 
 
 ## Actividad 2 - Convertir de Binario a Decimal 
+| Binario       | Potencias de 2             | Decimal |
+|--------------|---------------------------------------|---------|
+| 1010101010₂  | 2¹ + 2³ + 2⁵ + 2⁷ + 2⁹ = 2 + 8 + 32 + 128 + 512  | 682₁₀  |
+| 11111₂       | 2⁰ + 2¹ + 2² + 2³ + 2⁴ = 1 + 2 + 4 + 8 + 16  | 31₁₀  |
+| 10000000₂    | 2⁷ = 128  | 128₁₀  |
+| 100100100₂   | 2² + 2⁵ + 2⁸ = 4 + 32 + 256  | 292₁₀  |
+| 111000₂      | 2³ + 2⁴ + 2⁵ = 8 + 16 + 32  | 56₁₀  |
 
-- $1010101010_2$
 
-  $2^{1}+2^{3}+2^{5}+2^{7}+2^{9}=2+8+32+128+512=682_{10}$
-
-- $11111_2$
-
-  $2^{0}+2^{1}+2^{2}+2^{3}+2^{4}=1+2+4+8+16=31_{10}$
-
-- $10000000_2$
-
-  $2^{7}=128_{10}$
-
-- $100100100_2$
-
-  $2^{2}+2^{5}+2^{8}=4+32+256=292_{10}$
-
-- $111000_2$
-
-  $2^{3}+2^{4}+2^{5}=8+16+32=56_{10}$
 
   ## Actividad 3 - Concertir de Decimal a Binario
 
@@ -112,7 +101,7 @@ El trabajo de George Boole fue fundamental en la informática, ya que desarroll�
 
 ## Diferentes tipos de datos que se utilizan en varios lenguajes de programación
 
-## Diferentes tipos de datos que se utilizan en varios lenguajes de programación
+
 
 | Características Principales | Enteros  | Punto Flotante | String   | Booleano  | Char |
 |----------------------------|----------|---------------|----------|-----------|------|
