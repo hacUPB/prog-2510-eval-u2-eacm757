@@ -1,0 +1,6 @@
+X1 = float(input("Ingrese coordenada X de P1: "))
+Y1 = float(input("Ingrese coordenada Y de P1: "))
+X2 = float(input("Ingrese coordenada X de P2: "))
+Y2 = float(input("Ingrese coordenada Y de P2: "))
+D = (((X2 - X1)**2 + (Y2 - Y1)**2)**0.5)
+print (f"La distancia es: {D}")
